@@ -13,3 +13,5 @@ and use credentials:
 email: test@test.com
 password: 123456
 ```
+
+![netflix-demo image](https://github.com/rami-pro/netflix-demo/blob/master/Netflix.png?raw=true)
