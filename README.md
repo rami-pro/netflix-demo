@@ -6,7 +6,7 @@ I used **compound components** (just a design pattern) to build my components, a
 
 # try project
 
-if you are intrested to try the project go to [NETFLIX](https://zaphir-react.vercel.app/)
+if you are intrested to try the project go to [NETFLIX](https://netflix-demo.vercel.app/)
 and use credentials:
 
 ```bash
